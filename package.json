@@ -29,7 +29,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "http://localhost:8080",
+  "proxy": "https://nadineab.github.io/Gender-Decoder-App/",
   "browserslist": {
     "production": [
       ">0.2%",
