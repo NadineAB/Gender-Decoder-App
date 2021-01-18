@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f058a34b.chunk.css",
-    "main.js": "/static/js/main.10bb444e.chunk.js",
-    "main.js.map": "/static/js/main.10bb444e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
-    "static/js/2.840b6596.chunk.js": "/static/js/2.840b6596.chunk.js",
-    "static/js/2.840b6596.chunk.js.map": "/static/js/2.840b6596.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.029ebcdb27921505589ec548976c7a81.js": "/precache-manifest.029ebcdb27921505589ec548976c7a81.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f058a34b.chunk.css.map": "/static/css/main.f058a34b.chunk.css.map",
-    "static/js/2.840b6596.chunk.js.LICENSE.txt": "/static/js/2.840b6596.chunk.js.LICENSE.txt",
-    "static/media/equality-people.png": "/static/media/equality-people.b06413fe.png"
+    "main.css": "/Gender-Decoder-App/static/css/main.f058a34b.chunk.css",
+    "main.js": "/Gender-Decoder-App/static/js/main.47045503.chunk.js",
+    "main.js.map": "/Gender-Decoder-App/static/js/main.47045503.chunk.js.map",
+    "runtime-main.js": "/Gender-Decoder-App/static/js/runtime-main.ecdf054a.js",
+    "runtime-main.js.map": "/Gender-Decoder-App/static/js/runtime-main.ecdf054a.js.map",
+    "static/js/2.840b6596.chunk.js": "/Gender-Decoder-App/static/js/2.840b6596.chunk.js",
+    "static/js/2.840b6596.chunk.js.map": "/Gender-Decoder-App/static/js/2.840b6596.chunk.js.map",
+    "index.html": "/Gender-Decoder-App/index.html",
+    "precache-manifest.92c1bdaa8557a33e8732e65ac947b3ef.js": "/Gender-Decoder-App/precache-manifest.92c1bdaa8557a33e8732e65ac947b3ef.js",
+    "service-worker.js": "/Gender-Decoder-App/service-worker.js",
+    "static/css/main.f058a34b.chunk.css.map": "/Gender-Decoder-App/static/css/main.f058a34b.chunk.css.map",
+    "static/js/2.840b6596.chunk.js.LICENSE.txt": "/Gender-Decoder-App/static/js/2.840b6596.chunk.js.LICENSE.txt",
+    "static/media/equality-people.png": "/Gender-Decoder-App/static/media/equality-people.b06413fe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a21426.js",
+    "static/js/runtime-main.ecdf054a.js",
     "static/js/2.840b6596.chunk.js",
     "static/css/main.f058a34b.chunk.css",
-    "static/js/main.10bb444e.chunk.js"
+    "static/js/main.47045503.chunk.js"
   ]
 }
